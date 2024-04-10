@@ -11,3 +11,11 @@
 ## 实现功能
 
 实现了按下键盘字母，发送指令，可以一直以固定的频率发送，也可以至发送一次。
+
+## 参考引用
+
+## 致谢
+
+## 许可
+
+The source code is released under GPLv3 license.

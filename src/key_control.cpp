@@ -1,3 +1,12 @@
+/*******************************************************
+ * Copyright (C) 2024, FAST HuZhou Institute of ZheJiang University
+ *
+ * Licensed under the GNU General Public License v3.0;
+ * you may not use this file except in compliance with the License.
+ *
+ * Author: Wang PengFei (pfw2024@outlook.com)
+ *******************************************************/
+
 #include <termios.h>
 #include <sys/poll.h>
 #include <boost/thread/thread.hpp>
