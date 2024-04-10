@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/pf/d435i/devel/include/**",
+        "/home/pf/ws_livox/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/pf/ws_livox/src/FAST_LIO/include/**",
+        "/home/pf/iTemp/key_control/src/key_control/include/**",
+        "/home/pf/d435i/src/realsense-ros/realsense2_camera/include/**",
+        "/usr/include/**",
+        "/home/pf/iTemp/key_control/devel/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
